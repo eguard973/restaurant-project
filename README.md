@@ -1,17 +1,17 @@
 
-#Basic Restaurant Menu
+# Basic Restaurant Menu
 
 ![Image of Menu](menu/public/images/menu.png)
 
-##Docker
+## Docker
 To run these apps you require docker, in root of repo run:
 
 `$ docker-compose -f docker-compose.yml up`
 
 docker-compose will create and start mongodb container and will also seed mongo.
 
-##API
-###Nest.js App
+## API
+### Nest.js App
 
 ```
 $ cd api
@@ -27,7 +27,7 @@ Retrieve beers from third-party API (brewerydb.com).
 `GET http://localhost:3000/beer`
 
 
-###API Tests
+### API Tests
 ```
 $ yarn run test:cov
 yarn run v1.22.10
@@ -58,7 +58,7 @@ Ran all test suites.
 
 ```
 
-##Menu
+## Menu
 ### Next.js
 ```
 $ cd menu
