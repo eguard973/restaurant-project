@@ -1,0 +1,14 @@
+[
+  {"name": "Salt & Pepper Shrimp","description": "lightly fried,pesto aioli","price": 19.00,"priceString": "$19.00","type": "starter"},
+  {"name": "Seasonal House Salad","description": "mixed greens,tomato,red onion,avocado,herbed croutons,lemon basil vinaigrettei","price": 10.00,"priceString": "$10.00","type": "starter"},
+  {"name": "Seasonal Soup","description": "Chef's seasonal creation","price": 10.00,"priceString": "$10.00","type": "starter"},
+  {"name": "Classic Burger","description": "Certified Angus Beef®,Tillamook cheddar or Danish blue cheese,black pepper aioli,fries","price": 19.00,"priceString": "$19.00","type": "entree"},
+  {"name": "Buttermilk Fried Chicken","description": "signature herbes de Provence,mashed potatoes,elote corn,hot honey for dipping","price": 28.00,"priceString": "$28.00","type": "entree"},
+  {"name": "Fish Tacos","description": "mesquite-grilled steelhead salmon,flour tortillas,chili aioli,blistered tomatoes,arugula,cilantro lime slaw,black beans","price": 21.00,"priceString": "$21.00","type": "entree"},
+  {"name": "BBQ Ribs","description": "St. Louis style,slow cooked,french fries,cilantro lime slaw","price": 30.00,"priceString": "$30.00","type": "entree"},
+  {"name": "Filet Mignon","description": "12oz,center cut,mashed potatoes","price": 49.00,"priceString": "$49.00","type": "entree"},
+  {"name": "Harvest Salad","description": "roasted chicken breast or grilled steelhead salmon,mixed greens,artichoke hearts,red peppers,tomato,red onion,avocado,herbed croutons,lemon basil vinaigrettes","price": 21.50,"priceString": "$21.50","type": "entree"},
+  {"name": "Mac & Cheese","price": 8.00,"priceString": "$8.00","type": "side"},
+  {"name": "Crispy Brussels Sprouts","description": "with bacon","price": 8.00,"priceString": "$8.00","type": "side"},
+  {"name": "Mashed Potatoes","price": 8.00,"priceString": "$8.00","type": "side"}
+]
